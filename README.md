@@ -10,7 +10,8 @@ yain 的个人博客
 
 ### 最新
 
-* [世界，你好！](https://www.yaindream.com/hello-solo)
+* [我在 GitHub 上的开源项目](https://www.jinjianh.com/my-github-repos)
+* [世界，你好！](https://www.jinjianh.com/hello-solo)
 
 
 
