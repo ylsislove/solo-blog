@@ -10,6 +10,8 @@ yain 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.yaindream.com/my-github-repos)
+* [2019年11月17日深夜有感](http://www.yaindream.com/articles/2019/11/18/1574049036135.html)
 * [世界，你好！](http://www.yaindream.com/hello-solo)
 
 
